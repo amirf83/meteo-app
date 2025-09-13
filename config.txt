@@ -1,0 +1,12 @@
+# Configuration pour l'application météo
+
+# Pour utiliser une vraie API key OpenWeatherMap:
+# 1. Créez un compte gratuit sur https://openweathermap.org/api
+# 2. Obtenez votre clé API
+# 3. Remplacez 'demo_key' dans meteo.py par votre vraie clé
+# 4. Ou mieux encore, utilisez une variable d'environnement:
+#    export OPENWEATHER_API_KEY="votre_cle_ici"
+
+# Mode démo
+# Le script fonctionne actuellement en mode démo avec des données simulées
+# pour Paris, Lyon, Marseille et des données par défaut pour les autres villes.
